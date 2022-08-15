@@ -1155,7 +1155,12 @@ Bad examples:
 * `AllNotifyDeath` - Use `Multicast`, never `All`.
 * `ClientWeapon` - No verb, ambiguous.
 
+<a name="3.3.1.6"></a>
+<a name="bp-funcs-naming-macros"></a>
+#### 3.3.1.6 Macro Library Function Names Should Be Unique
 
+Macro function libraries are unable to assume a particular scope when using Search for References tool. Search for References will find any function or variable that matches the given name which makes tracking down usages in our project more difficult. When creating a function or macro, use Search for References and make sure nothing else is using that name.
+  
 <a name="3.3.2"></a>
 <a name="bp-funcs-return"></a>
 #### 3.3.2 All Functions Must Have Return Nodes
