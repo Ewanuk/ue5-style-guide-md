@@ -121,6 +121,8 @@ If you have made a notable fork or translation that is not suitable for a pull r
     - [3.3.1.3 Info Functions Returning Bool Should Ask Questions](#bp-funcs-naming-bool)
     - [3.3.1.4 Event Handlers and Dispatchers Should Start With `On`](#bp-funcs-naming-eventhandlers)
     - [3.3.1.5 Remote Procedure Calls Should Be Prefixed With Target](#bp-funcs-naming-rpcs)
+	- [3.3.1.6 Macro Library Function Names Should Be Unique](#bp-funcs-naming-macros)
+	- [3.3.1.7 Exec Functions Should be Prefixed with PK](#bp-funcs-naming-exec)
     - [3.3.2 All Functions Must Have Return Nodes](#bp-funcs-return)
     - [3.3.3 No Function Should Have More Than 50 Nodes](#bp-graphs-funcs-node-limit)
     - [3.3.4 All Public Functions Should Have A Description](#bp-graphs-funcs-description)
@@ -1160,6 +1162,12 @@ Bad examples:
 #### 3.3.1.6 Macro Library Function Names Should Be Unique
 
 Macro function libraries are unable to assume a particular scope when using Search for References tool. Search for References will find any function or variable that matches the given name which makes tracking down usages in our project more difficult. When creating a function or macro, use Search for References and make sure nothing else is using that name.
+
+<a name="3.3.1.7"></a>
+<a name="bp-funcs-naming-exec"></a>
+#### 3.3.1.7 Gameplay Related Exec Functions Should be Prefixed with PK
+
+This allows console commands that will be commonly used by non-developers to be easily found
   
 <a name="3.3.2"></a>
 <a name="bp-funcs-return"></a>
