@@ -69,6 +69,7 @@ If you have made a notable fork or translation that is not suitable for a pull r
   - [1.2.10 Sounds](#anc-sounds)
   - [1.2.11 User Interface](#anc-ui)
   - [1.2.12 Effects](#anc-effects)
+  - [1.2.13 GAS System](#anc-gas-system)
 - [2. Content Directory Structure](#structure)
   - [2e1 Example Project Content Structure](#2e1)
   - [2.1 Folder Names](#structure-folder-names)
@@ -538,6 +539,16 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Particle System         | PS_        |            | (Niagara only!)                  |
 | Cascade Particle System | CPS_       |            | (Legacy System)                  |
 | Material (Post Process) | PP_        |            |                                  |
+
+<a name="anc-gas-system"></a>
+<a name="1.2.13"></a>
+### 1.2.12 GAS System
+
+| Asset Type              | Prefix     | Suffix     | Notes                            |
+| ----------------------- | ---------- | ---------- | -------------------------------- |
+| Gameplay Ability        | GA_        |            |                                  |
+| Gameplay Effect         | GE_        |            |                                  |
+| Gameplay Cue            | GC_        |            |                                  |
 
 **[⬆ Back to Top](#table-of-contents)**
 
