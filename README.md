@@ -542,7 +542,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 
 <a name="anc-gas-system"></a>
 <a name="1.2.13"></a>
-### 1.2.12 GAS System
+### 1.2.13 GAS System
 
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
