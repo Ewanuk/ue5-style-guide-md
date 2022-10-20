@@ -479,6 +479,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Substance Instance Factory | SIF_       |            |                                  |
 | Touch Interface Setup      | TI_        |            |                                  |
 | Vector Curve               | Curve_     | _Vector    |                                  |
+| Limb Damage                | LD_        |            |                                  |
 
 <a name="anc-paper2d"></a>
 <a name="1.2.8"></a>
