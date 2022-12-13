@@ -367,6 +367,7 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 | Animation Notify State  | ANS_       |            |                                  |
 | Blend Space             | BS_        |            |                                  |
 | Blend Space 1D          | BS_        |            |                                  |
+| Groom                   | G_         |            |                                  |
 | Level Sequence          | LS_        |            |                                  |
 | Morph Target            | MT_        |            |                                  |
 | Paper Flipbook          | PFB_       |            |                                  |
