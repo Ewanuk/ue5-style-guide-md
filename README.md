@@ -362,7 +362,7 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 | Animation Blueprint     | ABP_       |            |                                  |
 | Animation Composite     | AC_        |            |                                  |
 | Animation Montage       | AM_        |            |                                  |
-| Animation Sequence      | A_         |            |                                  |
+| Animation Sequence      | AS_        |            |                                  |
 | Animation Notify        | AN_        |            |                                  |
 | Animation Notify State  | ANS_       |            |                                  |
 | Blend Space             | BS_        |            |                                  |
