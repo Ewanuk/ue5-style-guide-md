@@ -363,6 +363,8 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 | Animation Composite     | AC_        |            |                                  |
 | Animation Montage       | AM_        |            |                                  |
 | Animation Sequence      | A_         |            |                                  |
+| Animation Notify        | AN_        |            |                                  |
+| Animation Notify State  | ANS_       |            |                                  |
 | Blend Space             | BS_        |            |                                  |
 | Blend Space 1D          | BS_        |            |                                  |
 | Level Sequence          | LS_        |            |                                  |
