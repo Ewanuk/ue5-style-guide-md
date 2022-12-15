@@ -496,6 +496,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Sprite Atlas Group      | SPRG_      |            |                                  |
 | Tile Map                | TM_        |            |                                  |
 | Tile Set                | TS_        |            |                                  |
+| Geometry Collection     | GeoC_      |            |                                  |
 
 <a name="anc-physics"></a>
 <a name="1.2.9"></a>
