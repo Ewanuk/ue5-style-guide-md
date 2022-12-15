@@ -478,6 +478,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Object Library             | OL_        |            |                                  |
 | Redirector                 |            |            | These should be fixed up ASAP.   |
 | Sprite Sheet               | SS_        |            |                                  |
+| Static Mesh Foliage        | SMF_       |            |                                  |
 | Static Vector Field        | VF_        |            |                                  |
 | Substance Graph Instance   | SGI_       |            |                                  |
 | Substance Instance Factory | SIF_       |            |                                  |
@@ -496,7 +497,6 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Sprite Atlas Group      | SPRG_      |            |                                  |
 | Tile Map                | TM_        |            |                                  |
 | Tile Set                | TS_        |            |                                  |
-| Geometry Collection     | GeoC_      |            |                                  |
 
 <a name="anc-physics"></a>
 <a name="1.2.9"></a>
@@ -507,6 +507,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Physical Material       | PM_        |            |                                  |
 | Physics Asset           | PHYS_      |            |                                  |
 | Destructible Mesh       | DM_        |            |                                  |
+| Geometry Collection     | GeoC_      |            |                                  |
 
 <a name="anc-sounds"></a>
 <a name="1.2.10"></a>
