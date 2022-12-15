@@ -544,6 +544,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Particle System         | PS_        |            | (Niagara only!)                  |
 | Cascade Particle System | CPS_       |            | (Legacy System)                  |
 | Material (Post Process) | PP_        |            |                                  |
+| Material Instance (PP)  | PPI_       |            |                                  |
 
 <a name="anc-gas-system"></a>
 <a name="1.2.13"></a>
