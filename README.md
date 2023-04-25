@@ -485,6 +485,8 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Touch Interface Setup      | TI_        |            |                                  |
 | Vector Curve               | Curve_     | _Vector    |                                  |
 | Limb Damage                | LD_        |            |                                  |
+| Level Instance             | LI_	      |            | Used for Level Instances and Packed Level Actors |
+| Blueprint Packed           | BPP_	      |            | Used for Packed Level Actors     |
 
 <a name="anc-paper2d"></a>
 <a name="1.2.8"></a>
