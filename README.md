@@ -487,6 +487,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Limb Damage                | LD_        |            |                                  |
 | Level Instance             | LI_	      |            | Used for Level Instances and Packed Level Actors |
 | Blueprint Packed           | BPP_	      |            | Used for Packed Level Actors     |
+| Collision Approximation    | SM_APPROX_ |            | Used for simplified collision data on complex meshes |
 
 <a name="anc-paper2d"></a>
 <a name="1.2.8"></a>
